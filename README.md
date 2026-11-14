@@ -1,4 +1,4 @@
-# Decision Making for Innovation
+# Innovation Strategy Cases
 
 Two innovation strategy projects from my Bachelor of Business Analytics (course 3051IBA / IBA313, Decision Making for Innovation, Trimester 1 2026). Each project analyses a real company, recommends a technology-driven strategy, and plans how to implement and de-risk it.
 
